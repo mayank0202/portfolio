@@ -281,11 +281,20 @@ Completed my Secondary school with 84%.`
   ];
   exprienceData: any = [
     {
-      id: 4,
+      id: 1,
+      company: 'Deloitte USI',
+      location: 'Gurgaon',
+      timeline: 'September 2024 to Present',
+      role: 'AWS Devops Consultant',
+      work: 'Working as a Devops Engineer .Responsible for handling and Managing the CI/CD work and also handles the docker files and scripts for automation. Written DockerFiles for many services which were used in the organization and also written docker-compose that builds all the images and pushed to Amazon ECR   .Creating snapshots and amazon machine images (AMIs) of the instances for backup and creating clone instances   .Created IAC tool i.e. cdktf for aws-lambda and have integated sns , sqs and vpc and that tool is created in typescript    .Managed AWS assets and integrated multiple AWS resources into solutions appropriate for company projects    .Knowledge of SonarQube for continuous inspection of Code Quality    .Proficient Knowledge of Terraform to automate various manual tasks.',
+
+    },
+    {
+      id: 2,
       company: 'Sourcefuse Technologies',
       location: 'Noida, India',
-      timeline: 'May 2021 to Present',
-      role: 'Junior Engineer- Devops',
+      timeline: 'May 2021 to September 2024',
+      role: 'Junior Engineer- Devops , Engineer - Devops',
       work: 'Working as a Devops Engineer .Responsible for handling and Managing the CI/CD work and also handles the docker files and scripts for automation. Written DockerFiles for many services which were used in the organization and also written docker-compose that builds all the images and pushed to Amazon ECR   .Creating snapshots and amazon machine images (AMIs) of the instances for backup and creating clone instances   .Created IAC tool i.e. cdktf for aws-lambda and have integated sns , sqs and vpc and that tool is created in typescript    .Managed AWS assets and integrated multiple AWS resources into solutions appropriate for company projects    .Knowledge of SonarQube for continuous inspection of Code Quality    .Proficient Knowledge of Terraform to automate various manual tasks.',
 
     },
