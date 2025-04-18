@@ -247,38 +247,7 @@ export class ProfileService {
   ];
 
 
-  educationData: any = [
-    {
-      'id': '1',
-      'from_to_year': '2015 - 2019',
-      'education': 'Bachelor\'s Degree',
-      'stream': 'Bachelor of Engineering',
-      'info': `Aditya Silver Oak Institute is GTU Affiliated and ranks 7th in Gujurat
-Completed B.E in Computer Engineering with 9.54 CGPA.  
-Won the Best Student Award 3 times for excellent Academic records at College. 
-Maintained above 9.1 spi in every semester of college academic .`,
-      'institution': 'ADITYA SILVER OAK INSTITUTE OF TECHNOLOGY, AHMEDABAD'
-    },
-    {
-      'id': '2',
-      'from_to_year': '2013 - 2015',
-      'education': 'Higher Secondary',
-      'stream': 'Science and Mathematics',
-      'institution': 'GYANDEEEP VIDHYALAYA,AHMEDABAD',
-      'info': `The High School was mainly focus on the bases of science, mathematics, and Chemistry
-There was also a good base on physics, mathematics and chemistry.
-Completed my high school with 78%.`
-    },
-    {
-      'id': '3',
-      'from_to_year': '2012 - 2013',
-      'education': 'Secondary  School',
-      'stream': 'Science and Mathematics',
-      'institution': 'GYANDEEEP VIDHYALAYA,AHMEDABAD',
-      'info': `The Secondary aims at Maths , English , Science, Social Science, Litrature and Languages.
-Completed my Secondary school with 84%.`
-    }
-  ];
+  educationData: any = [];
   exprienceData: any = [
     {
       id: 1,
